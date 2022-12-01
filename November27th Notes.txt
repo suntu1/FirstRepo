@@ -1,0 +1,7 @@
+Testplan we include introduction, roles, respective, roles, test cases, scope, entry and exit critira. When asked this question in interview answer both ALM and TEMP.
+QA Tests Manually and Automation
+Methodologies are methods of testing
+STLC SQL/DB
+CNSS Server concept 
+Tools-ALM MTT, Selenium ATT
+3 different layers in a software. Fe, MW, and BE
